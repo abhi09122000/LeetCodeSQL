@@ -1,2 +1,2 @@
-# LeetCodeSQL
+### LeetCodeSQL
 Practice LeetCode SQL Problems
